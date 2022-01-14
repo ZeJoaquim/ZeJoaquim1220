@@ -4,6 +4,9 @@
 - 📫 Contacto Email: zejoaquim1220@gmail.com
 - 😶‍🌫️ Pronomes: Ele/Dele
 
+##
+
+
 <div align="center">
   <a href="https://github.com/zejoaquim1220">
   <img width ="450em"src="https://github-readme-stats.vercel.app/api?username=zejoaquim1220&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
