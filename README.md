@@ -2,7 +2,6 @@
 - ⚙️ A trabalhar com ... Escola :(
 - 🌱 Estudando... C#, html,css,js and python.
 - 📫 Contacto Email: zejoaquim1220@gmail.com
-- 😶‍🌫️ Pronomes: Ele/Dele
 
 ##
 
